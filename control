@@ -1,0 +1,9 @@
+Package: beta.simalary.quickmarkup
+Name: QuickMarkup
+Depends: mobilesubstrate
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Access the photo markup feature in less taps.
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Author: Simalary (Chris) <19harperc@gmail.com>
+Section: Tweaks
